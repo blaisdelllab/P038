@@ -1,0 +1,10 @@
+Subject,Hopper Duration (ms),ITI Duration (ms),Group,Optimal Color,Suboptimal Color
+TEST,1000,2000,Forced,Blue,Yellow
+B1,6000,10000,Choice,Blue,Yellow
+B2,6000,10000,Choice,Blue,Yellow
+B3,6000,10000,Choice,Yellow,Blue
+B4,6000,10000,Choice,Yellow,Blue
+B5,6000,10000,Forced,Blue,Yellow
+B6,6000,10000,Forced,Blue,Yellow
+B7,6000,10000,Forced,Yellow,Blue
+B8,6000,10000,Forced,Yellow,Blue
